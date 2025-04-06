@@ -9,10 +9,8 @@ This project is a Python-based virtual mouse that uses **hand tracking** via a w
 - Performs a mouse **click when thumb and index finger touch**.
 - Real-time feedback via on-screen drawing of hand landmarks and gestures.
 
-## Demo
 
-https://user-images.githubusercontent.com/your-username/demo.gif  
-*(Replace this with a demo video or GIF if available)*
+
 
 ## Requirements
 
